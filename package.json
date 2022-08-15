@@ -1,0 +1,22 @@
+{
+  "name": "booking_mernstackapp",
+  "version": "1.0.0",
+  "description": "Book keeping applicating",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chidiebereojingwa/book_inventory_app.git"
+  },
+  "author": "Chidiebere Ojingwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chidiebereojingwa/book_inventory_app/issues"
+  },
+  "homepage": "https://github.com/chidiebereojingwa/book_inventory_app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
